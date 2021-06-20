@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575290148051",
+    "project_id": "tasarim-calismasi-1f3fb",
+    "storage_bucket": "tasarim-calismasi-1f3fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575290148051:android:9d9fb661c2c026852a8026",
+        "android_client_info": {
+          "package_name": "com.example.tasarim_calismasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575290148051-gav0k0kal3pa2flck9032cob452dba4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS99Uf3PCOaLoGIk_RmWbriug8KyYliWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575290148051-gav0k0kal3pa2flck9032cob452dba4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
